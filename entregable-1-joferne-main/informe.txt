@@ -1,0 +1,11 @@
+Notebook análisis datos: ok
+Notebook visualización de datos: ok
+Notebook comparativa: muy completa
+Notebook entrenamiento: ok
+Notebooks extra: 
+- PCA reducción dimensionalidad. 
+- Correlación descriptores. 
+- Nuevos algoritmos.
+- Escalado datos. 
+- Detección outliers
+Nota: 10

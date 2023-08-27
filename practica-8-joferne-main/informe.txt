@@ -1,0 +1,3 @@
+Ejercicios obligatorios: Completados. El último ejercicio había que haber modificado un poco los números para que se ajustara a la distribución usada en conjunto entrenamiento.
+Ejercicios opcionales: Sin hacer. 
+Nota: 5.75

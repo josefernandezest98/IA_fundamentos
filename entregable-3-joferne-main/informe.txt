@@ -1,0 +1,8 @@
+Requisitos mínimos (7 ptos): Modelos sin terminar de entrenar
+Blurr: 
+Learning rate: 
+Aplicación: 
+Ensemble: 
+Comparativa wikipedia: 
+Otras alternativas: 
+Nota: 4.5

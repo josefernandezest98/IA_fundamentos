@@ -1,0 +1,7 @@
+Requisitos mínimos: ok
+Arquitectura distinta: no 
+Limpieza dataset y reentreno: no
+Comparativa CPU: no
+Búsqueda learning rate: no
+Aplicación: no
+Nota: 5
