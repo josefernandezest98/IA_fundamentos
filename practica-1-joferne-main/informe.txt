@@ -1,0 +1,3 @@
+Ejercicios obligatorios: Error en el método combina_listas. Cuidado con los alineados, unas veces usas 4 espacios, otras veces 2.
+Ejercicios opcionales: Realizados. En el ejercicio 3 los tipos de tupla y lista pueden ser más precisos, puedes dar tipos como Tuple[int,...] en lugar de tuple para asegurar que es una tupla de enteros. 
+Nota: 8.5

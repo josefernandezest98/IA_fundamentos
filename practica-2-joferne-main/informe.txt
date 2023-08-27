@@ -1,0 +1,3 @@
+Ejercicios obligatorios: Correcto.
+Ejercicios opcionales: Hechos, el tipo de cuenta_palabras produce un error. Esto se produce porque primero usas la variable fread para almacenar un string y luego una lista, esto es una mala práctica. 
+Nota: 9.75
